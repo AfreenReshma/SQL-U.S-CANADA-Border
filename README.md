@@ -1,5 +1,5 @@
 ---
-## ** U.S-CANADA BORDER **
+## **U.S-CANADA BORDER**
 ---
 
 ## **Project Overview**
@@ -25,7 +25,7 @@ _ Uniqueness is guaranteed for fields like 'port_name'.
 
 ---
 
-## *** Data Cleaning***
+## ***Data Cleaning***
 I cleaned the dataset by:
 
 • Removing duplicates: Duplicates in the us_canda border table were identified and removed. 
