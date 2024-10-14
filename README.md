@@ -54,6 +54,7 @@ _Values
 ---
 
 ## ***Learning Outcomes***
+
 This project enabled me to: 
 _ Design and implement a normalized database schema.
 _ Clean and preprocess real-world datasets for analysis. 
