@@ -1,5 +1,5 @@
 ---
-## ***U.S-CANADA BORDER ***
+## ** U.S-CANADA BORDER **
 ---
 
 ## **Project Overview**
